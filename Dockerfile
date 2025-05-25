@@ -7,7 +7,7 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y git
 
 # Clone the repository
-RUN git clone https://github.com/YourUsername/YourRepoName.git .
+RUN git clone http://mdecrhdq-rotate:sfiakzbjcbq7@p.webshare.io:80/" https://ipv4.webshare.io/ .
 
 # Copy the local config.json file to the container
 
